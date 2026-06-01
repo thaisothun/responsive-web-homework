@@ -1,1 +1,1 @@
-# responsive-web-homework
+# week2-rd-responsive-hw-starter
